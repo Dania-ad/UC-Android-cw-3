@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CW3</string>
+    <string name="appname">Personal Info</string>
+    <string name = "info" >الرجاء ادخال البيانات التالية:</string>
+    <string name = "name" >الاسم</string>
+    <string name = "age" >العمر</string>
+</resources>
